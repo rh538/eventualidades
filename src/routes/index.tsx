@@ -90,7 +90,7 @@ const festaEmigranteChaves2026 = [
   { src: chaves2026b, alt: "Multidão na Festa do Emigrante 2026" },
 ];
 const vianaBateForte2026 = [
-  { src: vbf2026a, alt: 3 palcos vista aérea - Festival Viana Bate Forte 2026" },
+  { src: vbf2026a, alt: "3 palcos vista aérea - Festival Viana Bate Forte 2026" },
   { src: vbf2026b, alt: "Palco Liberdade - vista aérea - Viana Bate Forte 2026" },
   { src: vbf2026c, alt: "Palco Liberdade - Festival Viana Bate Forte 2026" },
   { src: vbf2026d, alt: "Palco República - Festival Viana Bate Forte 2026" },
